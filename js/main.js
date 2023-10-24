@@ -6,17 +6,35 @@
 
 const infoBoxes = [
   {
-    title: "Noise-cancelling microphones",
-    text: "Noise-cancelling microphones and a rear copper shield are optimally placed to quickly detect outside noises, working together to counter noise before it disturbs your experience",
-    image: "images/pathtoimage.jpg"
+    title: "EarTips",
+    text: "Smooth and confortable eartiops, coming also in diferent color variations and also transparent",
+    image: "images/path_to_image_example.jpg"
   },
 
   {
-    title: "Rubber Blablabla",
-    text: "Test do rubber Noise-cancelling microphones and a rear copper shield are optimally placed to quickly detect outside noises, working together to counter noise before it disturbs your experience",
-    //image: "images/pathtoimage.jpg"
+    title: "Rubber Support",
+    text: "It helps to hold the Earbud into your ear, giving an aditional support, for extreme movemente times, like when you runing for example",
+    image: "images/path_to_image_example.jpg"
   },
 
+
+  {
+    title: "Noise Canceling",
+    text: "Hear only what you intend to hear, walk on sidewalks near to the traffic jam and still just hear to your favorite music, isolate yourself of the inconvenient noise",
+    image: "images/path_to_image_example.jpg"
+  },
+
+  {
+    title: "Logo",
+    text: "Accept calls, mute the music, simple commands that will make your life easier.",
+    image: "images/path_to_image_example.jpg"
+  },
+
+  {
+    title: "Battery Conector",
+    text: "A discrete but efficient connector, fast charging and long battery duration",
+    image: "images/path_to_image_example.jpg"
+  },
 
 ]
 
